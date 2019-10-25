@@ -59,4 +59,4 @@ May 29, 2015
 
 **Download URL**
 
-<https://raw.githubusercontent.com/cdcepi/dengue-forecasting-project-2015/master/Dengue_data/sanjuan_testing_data.csv>
+<https://raw.githubusercontent.com/cdcepi/dengue-forecasting-project-2015/master/Dengue_data/san_juan_testing_data.csv>
