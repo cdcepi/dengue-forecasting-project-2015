@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/217545215.svg)](https://zenodo.org/badge/latestdoi/217545215)
+
 # Dengue Forecasting Project Data Repository
 
 In 2015, Several departments in the U.S. Federal Government (Department of Health and Human Services, Department of Defense, Department of Commerce, and the Department of Homeland Security) joined together, with the support of the Pandemic Prediction and Forecasting Science and Technology Interagency Working Group under the National Science and Technology Council, to run a dengue forecasting project for San Juan, Puerto Rico and Iquitos, Peru.
