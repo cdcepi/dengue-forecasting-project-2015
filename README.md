@@ -6,7 +6,7 @@ In 2015, Several departments in the U.S. Federal Government (Department of Healt
 
 The complete datasets for the project are available here. 
 
-Three typs of data are included:
+Three types of data are included:
 
 * [Dengue data](Dengue_data)
 * [Environmental data](Environmental_data)
